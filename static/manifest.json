@@ -1,0 +1,9 @@
+{
+  "name": "vercel-test",
+  "short_name": "vercel-test",
+  "start_url": "/",
+  "display": "fullscreen",
+  "icons": [
+    
+  ]
+}
